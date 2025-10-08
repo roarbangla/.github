@@ -4,14 +4,14 @@
 
 ## About Us
 
-Roar Bangla is a community-driven organization focused on empowering Bengali developers and technologists. We build open-source projects, share knowledge, and foster collaboration within the Bengali tech community.
+Roar Bangla is a community-driven organization focused on writing Bengali contents. We build open-source projects, share knowledge, and foster collaboration within the Bengali article writers community.
 
 ## 🎯 Our Mission
 
-- **Empower** Bengali developers with tools, resources, and mentorship
-- **Build** innovative open-source projects that serve the community
-- **Connect** developers across Bangladesh and the Bengali diaspora
-- **Share** knowledge and best practices in software development
+- **Empower** Bengali contents creators with tools, resources, and mentorship
+- **Build** innovative unique contents that serve the community
+- **Connect** content writers across Bangladesh and the Bengali diaspora
+- **Share** knowledge and things related to bangla.
 
 ## 🌟 What We Do
 
